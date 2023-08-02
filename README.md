@@ -3,7 +3,7 @@ Application of Text Transformers in the Education Sector
 
 # Data Science Product Development on Text Transformers in the Educational Sector
 The NLP product developed using text transformers was tailored to meet the needs of educators and students in the educational sector. The product was designed to be easy to use, fast, accurate, and scalable.
-- The access to the application files can be downloaded from the link: https://drive.google.com/drive/folders/1UubOAJCB4Oa2j27EdUgDzWd5I6vGewgR?usp=sharing
+- The application files can be downloaded from the link: https://drive.google.com/drive/folders/1UubOAJCB4Oa2j27EdUgDzWd5I6vGewgR?usp=sharing
 
 ### Description
 The Data science NLP product was built with text transformers. There are suitable NLP machine learning models that are effective for use in the education sector. Some of them were used in developing the product.
@@ -51,7 +51,7 @@ It is expected that python is already installed on your system (Minimum Python v
 ## Running Application
 To run the application, you are expected to install all the required libraries first. The library names and their versions are located in the requirement.txt file or you can see them in the 'Libraries' section in this README file.
 To run the application locally, follow the steps below:
-- The access to the application files can be downloaded from the link: https://drive.google.com/drive/folders/1UubOAJCB4Oa2j27EdUgDzWd5I6vGewgR?usp=sharing
+- The application files can be downloaded from the link: https://drive.google.com/drive/folders/1UubOAJCB4Oa2j27EdUgDzWd5I6vGewgR?usp=sharing
 - Open command prompt or terminal.
 - Navigate or cd into the folder containing the streamlit application Homepage '1_🏠_Homepage' in command prompt or terminal. Notice the emoji in-between 1 and Homepage. It is used for displaying icons while the application is running. **Note: Navigate into the folder: 'streamlit_app'.**
 - Install the required libraries needed for the application if they are not already installed (See the 'libraries' section).
